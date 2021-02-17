@@ -8,6 +8,9 @@
   </div>
 </template>
 
+
+
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -29,4 +32,9 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+.inline-block{
+    display: inline-block;
+}
+
 </style>
